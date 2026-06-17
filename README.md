@@ -18,7 +18,7 @@
 - 🎓 B.Tech in Computer Science & Engineering @ **Lovely Professional University**
 - 💻 I build **secure, scalable backend systems** using Java & Spring Boot
 - 🔧 Currently sharpening skills in **system design** and **clean architecture**
-- 🌱 Actively looking for **Java Developer ** opportunities
+- 🌱 Actively looking for **Java Developer** opportunities
 - 📫 Reach me at **dvk200507@gmail.com**
 
 ---
