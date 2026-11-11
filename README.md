@@ -62,7 +62,7 @@
 
 **🏬 [Multi-Tenant SaaS POS System](https://github.com/dvijaykumarr/multi-tenant-pos-system)**
 
-Enterprise-grade, multi-branch POS backend with **59 REST APIs** across 11 modules.
+Enterprise-grade, multi-branch POS backend with **82 REST APIs** across 15 modules.
 
 - JWT authentication & role-based access (Admin, Manager, Cashier)
 - Billing, refunds, inventory & shift-based reporting
